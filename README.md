@@ -1,5 +1,5 @@
 ### Describe your idea/Solution/Prototype here:
-⮚ Analysis of altitudes ranging from 3 to 7 KMdue to its susceptibility to cloud burst events.
+⮚ Analysis of altitudes ranging from 3 to 7 KMdue to its susceptibility to cloud burst events.\n
 ⮚ We employ cutting-edge wind mapping technology to track moisture-laden wind patterns. We will monitor the movementof these winds in real-time.
 ⮚ We cross-reference wind data with weather maps to identifylocations where cumulus clouds are above nimbus clouds topredict cloudbursts.
 ⮚ Factors influencing cloud burst are cloud volume and regional temperature.
